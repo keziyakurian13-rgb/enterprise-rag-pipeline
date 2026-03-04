@@ -1,6 +1,11 @@
 # Enterprise RAG Pipeline
 
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue.svg)](https://huggingface.co/spaces/Keziya13/enterprise-rag-pipeline)
+
 > A production-grade Retrieval-Augmented Generation (RAG) system built with **ChromaDB**, **LangChain**, **HuggingFace Embeddings**, and **FastAPI**.
+
+## 🔴 Live Demo
+🚀 **[Try the interactive UI live on Hugging Face Spaces!](https://huggingface.co/spaces/Keziya13/enterprise-rag-pipeline)**
 
 ## 🏗️ Architecture
 
